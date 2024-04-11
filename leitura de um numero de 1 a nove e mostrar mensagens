@@ -1,0 +1,12 @@
+Algoritmo VerificarFaixa
+// Entrada de dados
+Escrever "Digite um valor entre 1 e 9:"
+Leia valor
+
+// Verificar se o valor está dentro da faixa permitida
+Se valor == 1 e valor <= 9 então
+Escrever "O valor está na faixa permitida."
+Senão
+Escrever "O valor está fora da faixa permitida."
+Fim Se
+Fim Algoritmo
